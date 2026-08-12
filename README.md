@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0217-contains-duplicate) |
+| [1672-richest-customer-wealth](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->

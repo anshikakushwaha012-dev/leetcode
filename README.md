@@ -100,4 +100,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1672-richest-customer-wealth) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

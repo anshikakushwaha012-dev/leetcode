@@ -90,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0409-longest-palindrome) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,5 @@ class Solution:
                 total += num % 10
                 num //= 10
             num = total
-
         return num
         

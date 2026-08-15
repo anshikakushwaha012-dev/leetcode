@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0326-power-of-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Newton's Method
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |

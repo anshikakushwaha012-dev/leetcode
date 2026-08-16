@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0125-valid-palindrome) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0409-longest-palindrome) |
 | [2029-stone-game-ix](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming

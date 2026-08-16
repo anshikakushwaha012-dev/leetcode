@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0258-add-digits) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0409-longest-palindrome) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0067-add-binary) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |

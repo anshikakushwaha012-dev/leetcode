@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1386-cinema-seat-allocation](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1470-shuffle-the-array) |
 | [1563-stone-game-v](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1563-stone-game-v) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0409-longest-palindrome) |
+| [1386-cinema-seat-allocation](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0067-add-binary) |
+| [1386-cinema-seat-allocation](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |

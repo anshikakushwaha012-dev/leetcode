@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1563-stone-game-v](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2029-stone-game-ix) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1386-cinema-seat-allocation](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1470-shuffle-the-array) |

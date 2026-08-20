@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1386-cinema-seat-allocation](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1470-shuffle-the-array) |
 | [1563-stone-game-v](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1436-destination-city](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1436-destination-city) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0409-longest-palindrome) |
+| [1436-destination-city](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1436-destination-city) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy

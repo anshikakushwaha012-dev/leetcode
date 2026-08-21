@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Interactive
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2469-convert-the-temperature) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Newton's Method
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0258-add-digits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
@@ -245,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->

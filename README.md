@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1386-cinema-seat-allocation](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |

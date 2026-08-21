@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->

@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2469-convert-the-temperature) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Newton's Method
 |  |

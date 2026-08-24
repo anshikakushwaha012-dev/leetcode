@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1563-stone-game-v](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2235-add-two-integers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1872-stone-game-viii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1872-stone-game-viii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2029-stone-game-ix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1872-stone-game-viii) |
 ## Memoization
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -269,11 +274,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0724-find-pivot-index) |
+| [1872-stone-game-viii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |

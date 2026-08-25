@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0506-relative-ranks) |
+| [0605-can-place-flowers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2029-stone-game-ix) |

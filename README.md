@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0414-third-maximum-number) |
@@ -344,9 +346,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->

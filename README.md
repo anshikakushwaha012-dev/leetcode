@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0189-rotate-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1872-stone-game-viii) |

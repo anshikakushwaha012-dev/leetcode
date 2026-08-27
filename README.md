@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0070-climbing-stairs) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0088-merge-sorted-array) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1672-richest-customer-wealth) |

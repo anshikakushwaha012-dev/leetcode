@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0456-132-pattern) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Interactive
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0456-132-pattern) |
 | [0506-relative-ranks](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0605-can-place-flowers) |
@@ -412,4 +414,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0561-array-partition) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

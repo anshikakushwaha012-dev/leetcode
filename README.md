@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -426,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0456-132-pattern) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->

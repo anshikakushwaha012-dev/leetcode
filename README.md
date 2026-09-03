@@ -492,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->

@@ -3,19 +3,15 @@
  * @return {Object|Array}
  */
 var compactObject = function(obj) {
-
     if (Array.isArray(obj)) {
         let result = [];
-
         for (let value of obj) {
             if (Boolean(value)) {
                 result.push(compactObject(value));
             }
         }
-
         return result;
     }
-
     if (typeof obj === "object" && obj !== null) {
         let result = {};
 
@@ -24,9 +20,7 @@ var compactObject = function(obj) {
                 result[key] = compactObject(obj[key]);
             }
         }
-
         return result;
     }
-
     return obj;
 };

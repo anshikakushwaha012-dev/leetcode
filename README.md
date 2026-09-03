@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0101-symmetric-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -474,4 +475,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Graph Theory
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->

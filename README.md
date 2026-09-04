@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2029-stone-game-ix) |
@@ -528,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0075-sort-colors) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->

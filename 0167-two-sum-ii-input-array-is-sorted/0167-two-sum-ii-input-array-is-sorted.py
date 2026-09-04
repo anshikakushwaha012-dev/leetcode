@@ -1,9 +1,9 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
+        numbers.sort()
         arr=[]
-        n=len(numbers)
         left=0
-        right=n-1
+        right=len(numbers)-1
         while left<right:
             if numbers[left]+numbers[right]==target:
                 break
@@ -14,3 +14,4 @@ class Solution:
         arr.append(left+1)
         arr.append(right+1)
         return arr
+        

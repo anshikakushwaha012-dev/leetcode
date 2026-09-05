@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0326-power-of-three) |
 | [0478-generate-random-point-in-a-circle](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2029-stone-game-ix) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1872-stone-game-viii) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -560,4 +564,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0022-generate-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

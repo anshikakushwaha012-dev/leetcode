@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0326-power-of-three) |
 ## Math
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0070-climbing-stairs) |

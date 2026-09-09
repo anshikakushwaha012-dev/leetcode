@@ -9,7 +9,7 @@ class Solution:
         dummy.next=head
         slow=dummy
         fast=dummy
-        for _ in range(n):
+        for i in range(n):
             fast=fast.next
         while fast.next:
             slow=slow.next

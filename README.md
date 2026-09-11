@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0078-subsets) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0561-array-partition) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0118-pascals-triangle) |

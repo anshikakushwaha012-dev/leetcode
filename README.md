@@ -360,12 +360,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0110-balanced-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |

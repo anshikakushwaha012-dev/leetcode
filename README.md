@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0190-reverse-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0832-flipping-an-image) |

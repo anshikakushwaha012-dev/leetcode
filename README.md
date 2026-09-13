@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0292-nim-game) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0344-reverse-string) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bucket Sort
 |  |

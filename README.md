@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0088-merge-sorted-array) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0118-pascals-triangle) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0063-unique-paths-ii) |
 | [0832-flipping-an-image](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1672-richest-customer-wealth) |

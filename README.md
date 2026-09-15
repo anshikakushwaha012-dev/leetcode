@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1563-stone-game-v) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2485-find-the-pivot-integer) |

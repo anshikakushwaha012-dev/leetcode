@@ -8,4 +8,4 @@ class Solution:
         if rev==ans:
             return True
         else:
-            return False
+            return False 

@@ -1,34 +1,34 @@
 class Solution:
     def maxNumOfSubstrings(self, s: str) -> list[str]:
-        first=[len(s)]*26
-        last=[-1]*26
+        f=[len(s)]*26
+        l=[-1]*26
         for i in range(len(s)):
             x=ord(s[i])-ord('a')
-            first[x]=min(first[x],i)
-            last[x]=i
+            f[x]=min(f[x],i)
+            l[x]=i
         intervals=[]
         for i in range(len(s)):
             x=ord(s[i])-ord('a')
-            if i!=first[x]:
+            if i!=f[x]:
                 continue
             left=i
-            right=last[x]
+            right=l[x]
             j=left
-            valid=True
+            v=True
             while j<=right:
                 y=ord(s[j])-ord('a')
-                if first[y]<left:
-                    valid=False
+                if f[y]<left:
+                    v=False
                     break
-                right=max(right,last[y])
+                right=max(right,l[y])
                 j+=1
-            if valid:
+            if v:
                 intervals.append((left,right))
         intervals.sort(key=lambda x:x[1])
-        ans=[]
+        arr=[]
         end=-1
         for left,right in intervals:
             if left>end:
-                ans.append(s[left:right+1])
+                arr.append(s[left:right+1])
                 end=right
-        return ans
+        return arr

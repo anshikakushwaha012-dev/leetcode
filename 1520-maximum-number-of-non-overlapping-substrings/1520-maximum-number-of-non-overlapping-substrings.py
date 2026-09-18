@@ -1,18 +1,18 @@
 class Solution:
     def maxNumOfSubstrings(self, s: str) -> list[str]:
-        first = [len(s)] * 26
-        last = [-1] * 26
+        first=[len(s)]*26
+        last=[-1]*26
         for i in range(len(s)):
-            x = ord(s[i]) - ord('a')
-            first[x] = min(first[x], i)
-            last[x] = i
-        intervals = []
+            x=ord(s[i])-ord('a')
+            first[x]=min(first[x],i)
+            last[x]=i
+        intervals=[]
         for i in range(len(s)):
-            x = ord(s[i]) - ord('a')
-            if i != first[x]:
+            x=ord(s[i])-ord('a')
+            if i!=first[x]:
                 continue
-            left = i
-            right = last[x]
+            left=i
+            right=last[x]
             j = left
             valid = True
             while j <= right:

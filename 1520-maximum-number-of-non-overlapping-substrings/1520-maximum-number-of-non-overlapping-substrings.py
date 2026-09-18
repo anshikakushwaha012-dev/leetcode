@@ -13,22 +13,22 @@ class Solution:
                 continue
             left=i
             right=last[x]
-            j = left
-            valid = True
-            while j <= right:
-                y = ord(s[j]) - ord('a')
-                if first[y] < left:
-                    valid = False
+            j=left
+            valid=True
+            while j<=right:
+                y=ord(s[j])-ord('a')
+                if first[y]<left:
+                    valid=False
                     break
-                right = max(right, last[y])
-                j += 1
+                right=max(right,last[y])
+                j+=1
             if valid:
-                intervals.append((left, right))
-        intervals.sort(key=lambda x: x[1])
-        ans = []
-        end = -1
-        for left, right in intervals:
-            if left > end:
-                ans.append(s[left:right + 1])
-                end = right
+                intervals.append((left,right))
+        intervals.sort(key=lambda x:x[1])
+        ans=[]
+        end=-1
+        for left,right in intervals:
+            if left>end:
+                ans.append(s[left:right+1])
+                end=right
         return ans

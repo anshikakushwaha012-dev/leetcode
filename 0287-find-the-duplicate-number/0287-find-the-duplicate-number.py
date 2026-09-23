@@ -1,5 +1,5 @@
 class Solution:
-    def findDuplicate(self, nums: List[int]) -> int:
+    def findDuplicate(self, nums: list[int]) -> int:
         nums.sort()
         answer=0
         left=0

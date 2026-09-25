@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |

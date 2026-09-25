@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0415-add-strings) |
 | [0478-generate-random-point-in-a-circle](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0836-rectangle-overlap) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0940-distinct-subsequences-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1096-brace-expansion-ii) |

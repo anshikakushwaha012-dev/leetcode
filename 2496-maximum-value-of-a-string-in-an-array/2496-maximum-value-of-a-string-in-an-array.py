@@ -1,13 +1,10 @@
 class Solution:
     def maximumValue(self, strs: list[str]) -> int:
-        ans = 0
-
+        answer=0
         for s in strs:
             if s.isdigit():
-                value = int(s)
+                value=int(s)
             else:
-                value = len(s)
-
-            ans = max(ans, value)
-
-        return ans
+                value=len(s)
+            answer=max(answer,value)
+        return answer

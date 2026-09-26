@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1995-count-special-quadruplets) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1995-count-special-quadruplets](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2351-first-letter-to-appear-twice](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1528-shuffle-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |

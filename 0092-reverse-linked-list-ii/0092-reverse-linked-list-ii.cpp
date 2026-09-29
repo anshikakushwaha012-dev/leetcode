@@ -18,7 +18,7 @@ public:
         temp=temp->next;
     }   
     temp=head;
-    for(int i=1;i<left; i++){
+    for(int i=1;i<left;i++){
             temp = temp->next;
     }
     for(int i=right-1;i>=left-1;i--){

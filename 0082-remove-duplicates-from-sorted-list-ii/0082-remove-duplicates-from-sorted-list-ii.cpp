@@ -16,14 +16,14 @@ public:
         ListNode*prev=dummy;
         ListNode*ptr=head;
         while (ptr!=NULL) {
-            if (ptr->next!=NULL && ptr->val==ptr->next->val) {
+            if (ptr->next!=NULL && ptr->val==ptr->next->val){
                 int value=ptr->val;
-                while (ptr!=NULL && ptr->val==value) {
+                while (ptr!=NULL && ptr->val==value){
                     ptr=ptr->next;
                 }
                 prev->next=ptr;
             }
-            else {
+            else{
                 prev=ptr;
                 ptr=ptr->next;
             }

@@ -15,7 +15,7 @@ public:
         dummy->next=head;
         ListNode*prev=dummy;
         ListNode*ptr=head;
-        while (ptr!=NULL) {
+        while (ptr!=NULL){
             if (ptr->next!=NULL && ptr->val==ptr->next->val){
                 int value=ptr->val;
                 while (ptr!=NULL && ptr->val==value){

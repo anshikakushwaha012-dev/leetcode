@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1563-stone-game-v) |

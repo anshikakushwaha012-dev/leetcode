@@ -8,7 +8,6 @@ public:
             n=n/4;
         }
         return n==1;
-        
     }
 };
 

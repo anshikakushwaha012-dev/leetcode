@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |

@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2582-pass-the-pillow](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2582-pass-the-pillow](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table

@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1025-divisor-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1025-divisor-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1025-divisor-game) |
 | [1563-stone-game-v](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1927-sum-game) |
@@ -857,10 +860,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1025-divisor-game) |
 ## Euclidean Algorithm
 |  |
 | ------- |

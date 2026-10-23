@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1436-destination-city](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1528-shuffle-string) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |

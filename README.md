@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0724-find-pivot-index) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshikakushwaha012-dev/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
